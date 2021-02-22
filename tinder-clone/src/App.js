@@ -5,6 +5,10 @@ function App() {
   return (
     <div className="app">
       <h1>Lets build the MERN TINDER clone</h1>
+
+      {/* Header */}
+      {/* TinderCards */}
+      {/* SwipeButtons */}
     </div>
   );
 }

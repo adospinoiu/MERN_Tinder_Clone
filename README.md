@@ -23,3 +23,6 @@ Tutorial Follow Along: How to build a Tinder Clone
 #10 Include "type": "module" (for ES6 notation for Express) and "start": "node server.js" in the package.json file
 
 #11 Install Express and Mongoose
+
+#12 Created Mongod Atlas database
+

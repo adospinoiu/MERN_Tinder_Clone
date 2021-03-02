@@ -27,3 +27,5 @@ Tutorial Follow Along: How to build a Tinder Clone
 #12 Created Mongod Atlas database
 
 #13 Installed Axios on the front-end
+
+#14 Axios call now retrieves data from the database and renders it on the front end

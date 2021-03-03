@@ -29,3 +29,7 @@ Tutorial Follow Along: How to build a Tinder Clone
 #13 Installed Axios on the front-end
 
 #14 Axios call now retrieves data from the database and renders it on the front end
+
+#15 The front-end (tinder-clone) is started in VS Code with 'npm start' while the back-end (tinder-backend) is started in VS code with 'node server.js'. Both have to be started in the terminal window(s) in order for the application to work
+
+#16

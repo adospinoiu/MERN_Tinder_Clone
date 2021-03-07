@@ -48,4 +48,4 @@ function TinderCards() {
     )
 }
 
-export default TinderCards
+export default TinderCards;

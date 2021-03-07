@@ -35,3 +35,5 @@ Tutorial Follow Along: How to build a Tinder Clone
 #16 Deployed the back-end (tinder-backend) on Heroku. First created a new app on the Heroku Dashboard. Then deployed using Heroku Git option. (NOT Github integration option).
 
 #17 Updated the axios call to call from the Heroku server
+
+#18 Installed Firebase Tools on the front-end (tinder-clone folder)

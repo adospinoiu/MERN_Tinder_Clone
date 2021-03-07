@@ -32,4 +32,6 @@ Tutorial Follow Along: How to build a Tinder Clone
 
 #15 The front-end (tinder-clone) is started in VS Code with 'npm start' while the back-end (tinder-backend) is started in VS code with 'node server.js'. Both have to be started in the terminal window(s) in order for the application to work
 
-#16
+#16 Deployed the back-end (tinder-backend) on Heroku. First created a new app on the Heroku Dashboard. Then deployed using Heroku Git option. (NOT Github integration option).
+
+#17 Updated the axios call to call from the Heroku server

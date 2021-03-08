@@ -1,6 +1,9 @@
 # MERN_Tinder_Clone (GitHub Created Blank)
 
 Tutorial Follow Along: How to build a Tinder Clone
+Description: This application is a react-clone of Tinder using Materialize-Ui for the user experience. It uses a MongodDB database to store data (i.e. name & image) and uses Express and Node deployed to Heroku to handle the back-end. The front-end is handled by React and deployed to Firebase.
+
+Credit to: Clever Programmer (https://www.youtube.com/watch?v=ktjafK4SgWM&t=8614s) for the instructional video.
 
 #1 Created Header.js Component and Header.css file
 
@@ -37,3 +40,5 @@ Tutorial Follow Along: How to build a Tinder Clone
 #17 Updated the axios call to call from the Heroku server
 
 #18 Installed Firebase Tools on the front-end (tinder-clone folder)
+
+#19 Deployed front-end to Firebase
